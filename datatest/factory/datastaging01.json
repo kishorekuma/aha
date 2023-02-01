@@ -1,0 +1,9 @@
+{
+	"name": "datastaging01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84b094ff-ec7c-43ab-971d-be9aa5dba38c",
+		"tenantId": "4eb866cc-df94-4c6b-b79d-c41a0050f0ca"
+	}
+}
