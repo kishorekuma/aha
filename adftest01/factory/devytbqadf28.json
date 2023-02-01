@@ -1,0 +1,9 @@
+{
+	"name": "devytbqadf28",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce831a7e-16b9-47ba-9f6c-1d310d465be0",
+		"tenantId": "4eb866cc-df94-4c6b-b79d-c41a0050f0ca"
+	}
+}
